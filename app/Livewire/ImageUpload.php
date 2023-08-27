@@ -15,7 +15,7 @@ class ImageUpload extends Component
     * @var TemporaryUploadedFile
      */
     
-     public $image = [];
+    public $image = [];
 
     public function save()
     {
